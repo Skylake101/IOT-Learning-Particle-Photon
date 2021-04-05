@@ -1,5 +1,7 @@
 /*
  * Author: Luke Carlson
+ * To show some originality in my code, I made D7 flash 10x the ascii code for the letters in my last name
+ * My last name is CARLSON, with the code 67,65,82,76,83,79,78 so I flashed 670, 820, etc.
  */
  int led1 = D0;
  int led2 = D7;
