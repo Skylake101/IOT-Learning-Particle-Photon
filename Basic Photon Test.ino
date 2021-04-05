@@ -1,7 +1,8 @@
 /*
  * Author: Luke Carlson
  * In this program I'm learning how to use the Photon and Arduino
- * I'm not trying to do anything fancy, I just need the lights to flash
+ * To start, I want D7 to flash on and off
+ * To experiment with response time: I'll have it flash faster by a multiple of 3. I'll reset it at 500ms
  */
 
 int led1 = D0; //D0, D7, OUTPUT, HIGH, etc. are all defined in
