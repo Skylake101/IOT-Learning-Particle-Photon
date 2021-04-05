@@ -1,8 +1,5 @@
 /*
- * Project yournameinlight
- * Description: 2nd Project of Hello Proton
  * Author: Luke Carlson
- * Date: 9/10/2018
  */
  int led1 = D0;
  int led2 = D7;
