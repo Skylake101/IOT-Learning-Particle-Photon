@@ -1,8 +1,7 @@
 /*
- * Project Blink Once
- * Description: First Project of Hello Proton
  * Author: Luke Carlson
- * Date: 9/10/2018
+ * In this program I'm learning how to use the Photon and Arduino
+ * I'm not trying to do anything fancy, I just need the lights to flash
  */
 
 int led1 = D0; //D0, D7, OUTPUT, HIGH, etc. are all defined in
