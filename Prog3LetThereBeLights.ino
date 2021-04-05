@@ -1,8 +1,5 @@
 /*
- * Project 3 Let There Be Lights
- * Description: 3rd Project of Hello Proton
  * Author: Luke Carlson
- * Date: 9/10/2018
  */
  const int dell = 100; //Start of main loop using del1 as your term
  int j = 0;
